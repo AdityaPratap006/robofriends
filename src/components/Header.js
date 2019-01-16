@@ -10,7 +10,7 @@ class Header extends Component{
 	render(){
 		console.log('Header');
 		return (<div>
-					<img className='logo' alt='My Logo' src={img2}/>
+					<h1>ROBO-FRIENDS</h1>
 					<CounterButton color={'red'} className='center'/>
 				</div>
 			)
