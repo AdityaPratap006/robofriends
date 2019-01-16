@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import CounterButton from './CounterButton.js';
-import img2 from './logo.png';
+//import img2 from './logo.png';
 
 class Header extends Component{
 	//shouldComponentUpdate(nextProps, nextState ){
