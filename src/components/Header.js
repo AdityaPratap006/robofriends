@@ -10,7 +10,7 @@ class Header extends Component{
 	render(){
 		console.log('Header');
 		return (<div>
-					<h1>ROBO-FRIENDS</h1>
+					<h1>ROBOFRIENDS</h1>
 					<CounterButton color={'red'} className='center'/>
 				</div>
 			)
