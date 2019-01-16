@@ -1,0 +1,23 @@
+@font-face {
+font-family: 'SEGA LOGO FONT';
+font-style: normal;
+font-weight: normal;
+src: local('SEGA LOGO FONT'), url('../components/SEGA.woff') format('woff');
+}
+
+h1{
+	font-family: 'SEGA LOGO FONT';
+	font-weight: 200;
+	color : #0ccac4;
+}
+
+.car{
+	max-width: 400px;
+	height: 300px;
+	border-radius: 20px;
+}
+
+.logo{
+	width: 240px;
+	height : 80px;
+}
